@@ -1,0 +1,28 @@
+{
+  "name": "phone-numbers",
+  "version": "0.0.1",
+  "description": "Library for finding phone numbers, especially in obfuscated formats",
+  "main": "phone-numbers.js",
+  "scripts": {
+    "test": "nodeunit tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/davidkarn/phone-numbers.js"
+  },
+  "keywords": [
+    "phone",
+    "number",
+    "parse",
+    "read",
+    "obfuscated",
+    "craigslist",
+    "scrape"
+  ],
+  "author": "David Karn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidkarn/phone-numbers.js/issues"
+  },
+  "homepage": "https://github.com/davidkarn/phone-numbers.js"
+}
