@@ -31,9 +31,8 @@ var teststrings = [
      number: "2534052380"},
     {text: "I can be reached at omaritaylor@hotmail.com or at 206.547.2615.",
      number: "2065472615"},
-//    {text: "$15 to share cost of gas. Pls TEXT me if you are heading that way. 
-// three ten 567 seven zero one nine",
-//     number: "3105677019"},
+    {text: "$15 to share cost of gas. Pls TEXT me if you are heading that way. \n three ten 567 seven zero one nine",
+     number: "3105677019"},
     {text: "Lost Min Pin at pond on highline property, Black and Tan, cropped tail, cute as *uck, ten pounds, Brad, two zero six 446 one seven one three...",
      number: "2064461713"},
     {text: "Don't hesitate to send me an email with any questions, or call/text me at 805- three zero five -one 5 six 5",
